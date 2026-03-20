@@ -1,0 +1,785 @@
+# GAIL Exam Questions - ExamTopics
+
+**Exam:** Google Generative AI Leader (GAIL)
+
+**Total Questions:** 56
+
+**Source:** ExamTopics Discussion Forum
+
+**Generated:** 2026-03-20 11:25:17
+
+---
+
+## Table of Contents
+
+
+### Topic 1
+
+- [Question 1](#topic-1-question-1)
+- [Question 2](#topic-1-question-2)
+- [Question 3](#topic-1-question-3)
+- [Question 4](#topic-1-question-4)
+- [Question 5](#topic-1-question-5)
+- [Question 6](#topic-1-question-6)
+- [Question 7](#topic-1-question-7)
+- [Question 8](#topic-1-question-8)
+- [Question 9](#topic-1-question-9)
+- [Question 10](#topic-1-question-10)
+- [Question 11](#topic-1-question-11)
+- [Question 12](#topic-1-question-12)
+- [Question 13](#topic-1-question-13)
+
+### Topic 2
+
+- [Question 1](#topic-2-question-1)
+- [Question 2](#topic-2-question-2)
+- [Question 3](#topic-2-question-3)
+- [Question 4](#topic-2-question-4)
+- [Question 5](#topic-2-question-5)
+- [Question 6](#topic-2-question-6)
+- [Question 7](#topic-2-question-7)
+- [Question 8](#topic-2-question-8)
+- [Question 9](#topic-2-question-9)
+- [Question 10](#topic-2-question-10)
+- [Question 11](#topic-2-question-11)
+- [Question 12](#topic-2-question-12)
+- [Question 13](#topic-2-question-13)
+- [Question 14](#topic-2-question-14)
+- [Question 15](#topic-2-question-15)
+- [Question 16](#topic-2-question-16)
+- [Question 17](#topic-2-question-17)
+- [Question 18](#topic-2-question-18)
+- [Question 19](#topic-2-question-19)
+- [Question 20](#topic-2-question-20)
+- [Question 21](#topic-2-question-21)
+- [Question 22](#topic-2-question-22)
+- [Question 23](#topic-2-question-23)
+- [Question 24](#topic-2-question-24)
+- [Question 28](#topic-2-question-28)
+
+### Topic 3
+
+- [Question 1](#topic-3-question-1)
+- [Question 2](#topic-3-question-2)
+- [Question 3](#topic-3-question-3)
+- [Question 4](#topic-3-question-4)
+- [Question 5](#topic-3-question-5)
+- [Question 6](#topic-3-question-6)
+- [Question 7](#topic-3-question-7)
+- [Question 8](#topic-3-question-8)
+- [Question 9](#topic-3-question-9)
+- [Question 10](#topic-3-question-10)
+- [Question 11](#topic-3-question-11)
+- [Question 12](#topic-3-question-12)
+
+### Topic 4
+
+- [Question 1](#topic-4-question-1)
+- [Question 2](#topic-4-question-2)
+- [Question 3](#topic-4-question-3)
+- [Question 4](#topic-4-question-4)
+- [Question 5](#topic-4-question-5)
+- [Question 6](#topic-4-question-6)
+
+---
+
+## Topic 1 Question 1
+
+What is the definition of generative AI?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/307181-exam-generative-ai-leader-topic-1-question-1-discussion/)
+
+---
+
+## Topic 1 Question 2
+
+A company wants to use an AI agent to automate some tasks. They want everyone to understand the different functions of an AI agent. What is the function of an AI agent in the context of gen AI?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/307208-exam-generative-ai-leader-topic-1-question-2-discussion/)
+
+---
+
+## Topic 1 Question 3
+
+What is the definition of an AI agent?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/307209-exam-generative-ai-leader-topic-1-question-3-discussion/)
+
+---
+
+## Topic 1 Question 4
+
+A company is developing an AI character for a video game. The AI character needs to learn how to navigate a complex environment and make decisions to achieve certain objectives within the game. When the AI takes actions that lead to positive outcomes like finding a reward or overcoming an obstacle, it receives a positive score. When it takes actions that lead to negative outcomes, like hitting a wall or losing progress, it receives a negative score. Through this process of trial and error, the AI gradually improves the character’s ability to play the game effectively. What machine learning should the company use?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/307210-exam-generative-ai-leader-topic-1-question-4-discussion/)
+
+---
+
+## Topic 1 Question 5
+
+A research team has collected a large dataset of sensor readings from various industrial machines. This dataset includes measurements like temperature, pressure vibration levels and electrical current recorded at regular intervals. The team has not yet assigned any labels or categories to these readings and wants to identify potential anomalies, malfunctions or natural groupings of machine behavior based on the sensor data alone. What type of machine learning should they use?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/308639-exam-generative-ai-leader-topic-1-question-5-discussion/)
+
+---
+
+## Topic 1 Question 6
+
+A highly regulated financial institution wants to use Gemini as the core decision engine for a loan approval system that will deterministically approve or reject loan applications based on a strict set of predefined criteria. Why is this an inappropriate use case for Gemini?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310170-exam-generative-ai-leader-topic-1-question-6-discussion/)
+
+---
+
+## Topic 1 Question 7
+
+What is an example of unsupervised machine learning?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310182-exam-generative-ai-leader-topic-1-question-7-discussion/)
+
+---
+
+## Topic 1 Question 8
+
+A user asks a generative AI model about the scientific accuracy of a popular science fiction movie. The model confidently states that humans can indeed travel faster than light, referencing specific but entirely fictional theories and providing made-up explanations of how this is achieved according to the movie's "established science." The model presents this information as factual, without indicating that it originates from a fictional work. What type of model limitation is this?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/315528-exam-generative-ai-leader-topic-1-question-8-discussion/)
+
+---
+
+## Topic 1 Question 9
+
+What does a diffusion model do?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379919-exam-generative-ai-leader-topic-1-question-9-discussion/)
+
+---
+
+## Topic 1 Question 10
+
+An organization is collecting data to train a generative AI model for customer service. They want to ensure security throughout the ML lifecycle. What is a critical consideration at this stage?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379926-exam-generative-ai-leader-topic-1-question-10-discussion/)
+
+---
+
+## Topic 1 Question 11
+
+A company trains a generative AI model designed to classify customer feedback as positive, negative, or neutral. However, the training dataset disproportionately includes feedback from a specific demographic and uses outdated language norms that don’t reflect current customer communication styles. When the model is deployed, it shows a strong bias in its sentiment analysis for new customer feedback, misclassifying reviews from underrepresented demographics and struggling to understand current slang or phrasing. What type of model limitation is this?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379917-exam-generative-ai-leader-topic-1-question-11-discussion/)
+
+---
+
+## Topic 1 Question 12
+
+A company wants to build a model to classify customer reviews as positive, negative, or neutral. They have collected a dataset of thousands of customer reviews, and each review has been manually tagged with the corresponding sentiment: positive, negative, or neutral. What machine learning should the company use?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379934-exam-generative-ai-leader-topic-1-question-12-discussion/)
+
+---
+
+## Topic 1 Question 13
+
+An order fulfillment team has an agent that automatically processes orders, updates inventory, sends shipping notifications, and handles returns. What type of agent is this?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379913-exam-generative-ai-leader-topic-1-question-13-discussion/)
+
+---
+
+## Topic 2 Question 1
+
+A company has a machine learning project that involves diverse data types like streaming data and structured databases. How does Google Cloud support data gathering for this project?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/308700-exam-generative-ai-leader-topic-2-question-1-discussion/)
+
+---
+
+## Topic 2 Question 2
+
+The office of the CISO wants to use generative AI (gen AI) to help automate tasks like summarizing case information, researching threats, and taking actions like creating detection rules. What agent should they use?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310174-exam-generative-ai-leader-topic-2-question-2-discussion/)
+
+---
+
+## Topic 2 Question 3
+
+A financial services company receives a high volume of loan applications daily submitted as scanned documents and PDFs with varying layouts. The manual process of extracting key information is time-consuming and prone to errors. This causes delays in loan processing and impacts customer satisfaction. The company wants to automate the extraction of this critical data to improve efficiency and accuracy. Which Google Cloud tool should they use?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/308222-exam-generative-ai-leader-topic-2-question-3-discussion/)
+
+---
+
+## Topic 2 Question 4
+
+A security team needs a centralized platform to gain a comprehensive overview of their organization’s security health across their entire Google Cloud environment, including potential threats to their generative AI deployments. Which Google Cloud security offering is specifically for this purpose?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310167-exam-generative-ai-leader-topic-2-question-4-discussion/)
+
+---
+
+## Topic 2 Question 5
+
+An organization with a team of live customer service agents wants to improve agent efficiency and customer satisfaction during support interactions. They are looking for a tool that can provide real-time guidance to agents, suggest helpful information, and streamline the support process without fully automating customer conversations. Which component of Google’s Customer Engagement Suite should they use?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310168-exam-generative-ai-leader-topic-2-question-5-discussion/)
+
+---
+
+## Topic 2 Question 6
+
+A software developer needs a highly efficient, open-source large language model that can be fine-tuned on a local machine for rapid prototyping of a chatbot application. They require a model that offers strong performance in natural language understanding and generation, while being lightweight enough to run on limited hardware. Which Google-developed family of models should they use?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310176-exam-generative-ai-leader-topic-2-question-6-discussion/)
+
+---
+
+## Topic 2 Question 7
+
+A pharmaceutical company’s research and development department spends significant time manually reviewing new scientific papers to identify potential drug targets. They need a solution that can answer questions about these documents and provide summarized insights to researchers without requiring extensive coding expertise. What should the organization do?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310171-exam-generative-ai-leader-topic-2-question-7-discussion/)
+
+---
+
+## Topic 2 Question 8
+
+A company wants to create an AI-powered educational solution that provides personalized learning experiences for students. This platform will assess a student’s knowledge, recommend relevant learning materials and generate personalized exercises. The application would provide the structure for lessons and track progress. What type of AI solution should they use?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310180-exam-generative-ai-leader-topic-2-question-8-discussion/)
+
+---
+
+## Topic 2 Question 9
+
+A company’s development team is eager to start building generative AI solutions with Google Cloud, but has limited experience in AI development. They need to launch their gen AI solution quickly. What Google Cloud benefit would help the company achieve their goal?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310172-exam-generative-ai-leader-topic-2-question-9-discussion/)
+
+---
+
+## Topic 2 Question 10
+
+A large multinational corporation with geographically dispersed teams struggles with knowledge silos and inconsistent access to crucial internal information. What is a key business benefit of using Google Agentspace in this scenario?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310183-exam-generative-ai-leader-topic-2-question-10-discussion/)
+
+---
+
+## Topic 2 Question 11
+
+A marketing team wants to use a foundation model to create social media and advertising campaigns. They want to create written articles and images from text. They lack deep AI expertise and need a versatile solution. Which Google foundation model should they use?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310173-exam-generative-ai-leader-topic-2-question-11-discussion/)
+
+---
+
+## Topic 2 Question 12
+
+A data science team needs a centralized and organized location to store its various model versions, track their metadata, and easily deploy them to the respective applications. What Google Cloud service should they use?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310181-exam-generative-ai-leader-topic-2-question-12-discussion/)
+
+---
+
+## Topic 2 Question 13
+
+What is a characteristic of Google Cloud as a generative AI company?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310169-exam-generative-ai-leader-topic-2-question-13-discussion/)
+
+---
+
+## Topic 2 Question 14
+
+What will Google Cloud’s Agent Assist help a company achieve?
+
+### Suggested Answer
+
+B
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310175-exam-generative-ai-leader-topic-2-question-14-discussion/)
+
+---
+
+## Topic 2 Question 15
+
+A company wants a generative AI platform that provides the infrastructure, tools, and pre-trained models needed to build, deploy, and manage its generative AI solutions. Which Google Cloud offering should the company use?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310179-exam-generative-ai-leader-topic-2-question-15-discussion/)
+
+---
+
+## Topic 2 Question 16
+
+A company is exploring Google Agentspace to improve how its employees search for information on their enterprise systems and automate certain tasks. What is the key business advantage of using Agentspace?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310177-exam-generative-ai-leader-topic-2-question-16-discussion/)
+
+---
+
+## Topic 2 Question 17
+
+An organization wants granular control over who can use and see their generative AI models and related resources on Google Cloud. Which Google Cloud security offering is specifically for this purpose?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310178-exam-generative-ai-leader-topic-2-question-17-discussion/)
+
+---
+
+## Topic 2 Question 18
+
+A large ecommerce company with a substantial product catalog and many support documents has customers struggling to find information on their website. This leads to high support costs and poor user experience. The company wants a Google Cloud solution to improve website search and reduce support costs while improving customer satisfaction. What Google Cloud product should the company use?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310186-exam-generative-ai-leader-topic-2-question-18-discussion/)
+
+---
+
+## Topic 2 Question 19
+
+A company wants to adopt generative AI and is concerned about vendor lock-in. They want to maintain flexibility in their technology stack. What Google Cloud strength would ease their concerns?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310190-exam-generative-ai-leader-topic-2-question-19-discussion/)
+
+---
+
+## Topic 2 Question 20
+
+A company’s sales team spends a significant amount of time researching potential leads and manually entering data into their customer relationship management (CRM) tool. They want to improve the team’s efficiency and enable them to focus on building relationships and closing deals. What should the organization do?
+
+### Suggested Answer
+
+C
+
+### Top Community Answers
+
+**Comment 1** (Upvotes: 5)
+> Google Agentspace offers a unified enterprise search experience with specialized agents like the CRM agent, which can:
+
+Automatically research leads using internal and external data sources
+Update CRM records without manual input
+Help sales teams focus on relationship-building and closing deals
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310184-exam-generative-ai-leader-topic-2-question-20-discussion/)
+
+---
+
+## Topic 2 Question 21
+
+A logistics company wants to use a generative AI (gen AI) agent to automatically check real-time inventory levels across its warehouses and adjust delivery schedules. The gen AI agent needs access to internal inventory data. They want the most cost-effective solution. What should the organization do?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310192-exam-generative-ai-leader-topic-2-question-21-discussion/)
+
+---
+
+## Topic 2 Question 22
+
+An organization needs an AI tool to analyze and summarize lengthy customer feedback text transcripts. You need to choose a Google foundation model with a large context window. What foundation model should the organization choose?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310200-exam-generative-ai-leader-topic-2-question-22-discussion/)
+
+---
+
+## Topic 2 Question 23
+
+A large e-commerce company with a vast and frequently updated product catalog finds that customers struggle to find products on their website, and support agents speed too much time finding detailed product information. The company wants to improve search accuracy and efficiency for both customers and support. What Google Cloud solution should they use?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310187-exam-generative-ai-leader-topic-2-question-23-discussion/)
+
+---
+
+## Topic 2 Question 24
+
+An organization wants to quickly experiment with different Gemini models and parameters for content creation without a complex setup. What service should the organization use for this initial exploration?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379902-exam-generative-ai-leader-topic-2-question-24-discussion/)
+
+---
+
+## Topic 2 Question 28
+
+A finance team wants to use Gemma to help with daily tasks so that the financial analysts can focus on other work. Which business problem can Gemma most efficiently address?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/379904-exam-generative-ai-leader-topic-2-question-28-discussion/)
+
+---
+
+## Topic 3 Question 1
+
+What is a primary benefit of using a multi-agent system?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310201-exam-generative-ai-leader-topic-3-question-1-discussion/)
+
+---
+
+## Topic 3 Question 2
+
+An organization wants to use generative AI to create a chatbot that can answer customer questions about their account balances. They need to ensure that the chatbot can access previous portions of the conversation with the customer. Which prompting technique should they use?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310198-exam-generative-ai-leader-topic-3-question-2-discussion/)
+
+---
+
+## Topic 3 Question 3
+
+An organization wants to use generative AI to create a marketing campaign. They need to ensure that the AI model generates text that is appropriate for the target audience. What should the organization do?
+
+### Suggested Answer
+
+B
+
+### Top Community Answers
+
+**Comment 1** (Upvotes: 6)
+> Option B is the correct Answer. 
+Role prompting involves instructing the AI to adopt a specific role or perspective when generating content. For example: "You are a marketing expert creating a campaign for teenagers interested in eco-friendly fashion."
+This helps the AI:
+Tailor its tone, style, and vocabulary to the target audience.
+Stay aligned with the brand voice and campaign goals.
+Generate contextually appropriate and audience-relevant content.
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310188-exam-generative-ai-leader-topic-3-question-3-discussion/)
+
+---
+
+## Topic 3 Question 4
+
+A company wants to use generative AI to create a chatbot that can answer customer questions about their products and services. They need to ensure that the chatbot only uses information from the company’s official documentation. What should the company do?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310206-exam-generative-ai-leader-topic-3-question-4-discussion/)
+
+---
+
+## Topic 3 Question 5
+
+A social media platform uses a generative AI model to automatically generate summaries of user-submitted posts to provide quick overviews for other users. While the summaries are generally accurate for factual posts, the model occasionally misinterprets sarcasm, satire, or nuanced opinions, leading to summaries that misrepresent the original intent and potentially cause misunderstandings or offense among users. What should the platform do to overcome this limitation of the AI-generated summaries?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310199-exam-generative-ai-leader-topic-3-question-5-discussion/)
+
+---
+
+## Topic 3 Question 6
+
+A software development team wants to use generative AI (gen AI) to code faster so they can launch their software prototype quicker. What should the team do?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310203-exam-generative-ai-leader-topic-3-question-6-discussion/)
+
+---
+
+## Topic 3 Question 7
+
+A development team is building an internal knowledge base chatbot to answer employee questions about company policies and procedures. This information is stored across various documents in Google Cloud Storage and is updated regularly by different departments. What is the primary benefit of using Google Cloud’s RAG APIs in this scenario?
+
+### Suggested Answer
+
+C
+
+### Top Community Answers
+
+**Comment 1** (Upvotes: 5)
+> RAG helps to generate the most relevant documents from internal or external data sources.
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310207-exam-generative-ai-leader-topic-3-question-7-discussion/)
+
+---
+
+## Topic 3 Question 8
+
+A company’s large learning model (LLM) is producing hallucinations that are a result of the knowledge cutoff. How does retrieval-augmented generation (RAG) overcome this limitation?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310204-exam-generative-ai-leader-topic-3-question-8-discussion/)
+
+---
+
+## Topic 3 Question 9
+
+A global news agency is developing a generative AI tool to quickly summarize breaking news articles as they emerge online. The goal is to provide their audience with rapid updates on fast developing stories from various global sources. What Google Cloud solution should they use?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310193-exam-generative-ai-leader-topic-3-question-9-discussion/)
+
+---
+
+## Topic 3 Question 10
+
+A company is developing a conversational AI chatbot. They need to ensure the chatbot can engage in human-like conversations and provide accurate information. What should they do to enhance the chatbot’s ability to understand and respond effectively to user prompts?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310189-exam-generative-ai-leader-topic-3-question-10-discussion/)
+
+---
+
+## Topic 3 Question 11
+
+What does Vertex AI Search enable companies to do?
+
+### Suggested Answer
+
+A
+
+### Top Community Answers
+
+**Comment 1** (Upvotes: 6)
+> The correct choice is A) because Vertex AI Search is an enterprise-grade search service specifically designed to index and retrieve information from a company's own data sources (first-party data), with the added capability of grounding responses with public web data via Google Search. This core function is purpose-built for creating Retrieval-Augmented Generation (RAG) applications that provide answers grounded in specific, trusted information. The other options are incorrect because they descr
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310194-exam-generative-ai-leader-topic-3-question-11-discussion/)
+
+---
+
+## Topic 3 Question 12
+
+A development team is configuring a generative AI model for a customer-facing application and wants to ensure the generated content is appropriate and harmless. What is the primary function of the safety settings parameter in a generative AI model?
+
+### Suggested Answer
+
+A
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310191-exam-generative-ai-leader-topic-3-question-12-discussion/)
+
+---
+
+## Topic 4 Question 1
+
+A company is defining their generative AI strategy. They want to follow Google-recommended practices to increase their chances of success. Which strategy should they use?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310195-exam-generative-ai-leader-topic-4-question-1-discussion/)
+
+---
+
+## Topic 4 Question 2
+
+A retail company with a large online catalog wants to improve customer experience and drive sales by implementing multimodal search capabilities (image voice, and text). What is a primary business benefit of this capability?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310196-exam-generative-ai-leader-topic-4-question-2-discussion/)
+
+---
+
+## Topic 4 Question 3
+
+A financial institution uses generative AI (gen AI) to approve and reject loan applications, but gives no reasons for rejection. Customers are starting to file complaints. The company needs to implement a solution to reduce the complaints. What should the company do?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310197-exam-generative-ai-leader-topic-4-question-3-discussion/)
+
+---
+
+## Topic 4 Question 4
+
+A human resources team is implementing a new generative AI application to assist the department in screening a large volume of job applications. They want to ensure fairness and build trust with potential candidates. What should the team prioritize?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310205-exam-generative-ai-leader-topic-4-question-4-discussion/)
+
+---
+
+## Topic 4 Question 5
+
+According to Google-recommended practices, when should generative AI be used to automate tasks?
+
+### Suggested Answer
+
+C
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310185-exam-generative-ai-leader-topic-4-question-5-discussion/)
+
+---
+
+## Topic 4 Question 6
+
+A company wants to choose a generative AI (gen AI) use case that will be successful and have the most impact. What Key factor should they determine first according to Google Cloud- recommended practices?
+
+### Suggested Answer
+
+D
+
+**Discussion:** [View on ExamTopics](https://www.examtopics.com/discussions/google/view/310202-exam-generative-ai-leader-topic-4-question-6-discussion/)
+
+---
